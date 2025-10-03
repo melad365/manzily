@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "real-estate-app",
-    "slug": "real-estate-app",
+    "name": "manzily",
+    "slug": "manzily",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/letter-m.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
